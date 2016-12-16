@@ -1,5 +1,4 @@
 # Twos-Complement
-A simple program to convert numbers to two's complement
 ### About
 This repository contains a simple program to convert numbers to two's complement. It is written entirely in C++.
 
