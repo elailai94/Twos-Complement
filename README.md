@@ -15,7 +15,7 @@ make clean
 
 ### Usage
 ```Bash
-./asm
+make run
 ```
 
 
