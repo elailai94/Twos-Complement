@@ -17,3 +17,7 @@ make clean
 ```Bash
 ./asm
 ```
+
+
+### License
+This repository is licensed under the [MIT License](https://github.com/elailai94/Twos-Complement/blob/master/LICENSE.md).
