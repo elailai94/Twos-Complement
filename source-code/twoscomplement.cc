@@ -1,7 +1,7 @@
 //==============================================================================
 // Two's Complement
 //
-// @description: Makefile for twoscomplement.cc
+// @description: Program to convert numbers to two's complement
 // @author: Elisha Lai
 // @version: 1.0 24/09/2015
 //==============================================================================
