@@ -1,3 +1,11 @@
+//==============================================================================
+// Two's Complement
+//
+// @description: Makefile for twoscomplement.cc
+// @author: Elisha Lai
+// @version: 1.0 24/09/2015
+//==============================================================================
+
 #include <iostream>
 #include <string>
 
@@ -11,8 +19,8 @@ bool isSignMagNegative(unsigned int n) {
    } else {
      cout << "false" << endl;
      return false;
-   }
-}
+   } // if
+} // isSignMagNegative
 
 unsigned int toTwosComplement(unsigned int n) {
    if (isSignMagNegative(n) == true) {
@@ -20,11 +28,12 @@ unsigned int toTwosComplement(unsigned int n) {
       return twosComplement;
    } else {
       return w;
-   }
-}
+   } // if
+} // toTwosComplement
 
 int main() {
    unsigned int n = 0;
    cin >> n;
    toTwosComplement(n);
-}
+} // main
+
