@@ -15,8 +15,10 @@ make clean
 
 ### Usage
 ```Bash
-make run
+./twoscomplement
 ```
+
+> Note: The compilation and execution step can be combined into a single step by running: **make run**.
 
 
 ### License
