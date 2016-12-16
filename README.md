@@ -13,7 +13,7 @@ make
 make clean
 ```
 
-### Usage
+### Execution
 ```Bash
 ./twoscomplement
 ```
