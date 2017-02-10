@@ -16,4 +16,4 @@ run: all
 	./$(NAME) 
 
 clean:
-	-rm $(NAME)
+	rm $(NAME)
